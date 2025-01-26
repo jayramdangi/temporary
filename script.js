@@ -45,6 +45,21 @@
 // it is for the first time 
 // after that right git push only 
 
+// let's create a new branch 
+// git checkout -b "bug fix"
+
+// we can't push in the main 
+// first code is reviewed and then 
+// code bugfix will be merged with main 
+
+
+function bugfix()
+{
+      console.log("I am fixing some bugs"); 
+      console.log("Bugs are fixed in the code"); 
+}
+
+
 
 
 
