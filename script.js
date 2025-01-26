@@ -39,6 +39,14 @@
 // company watches the commit for the 
 // promotion and layoffs 
 
+// git remote add origin https://github.com/jayramdangi/temporary.git
+
+// git push -u origin push 
+// it is for the first time 
+// after that right git push only 
+
+
+
 
 
 
